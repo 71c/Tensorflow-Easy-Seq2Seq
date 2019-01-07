@@ -1,0 +1,5 @@
+model_checkpoint_path: "seq2seq-2000"
+all_model_checkpoint_paths: "seq2seq-500"
+all_model_checkpoint_paths: "seq2seq-1000"
+all_model_checkpoint_paths: "seq2seq-1500"
+all_model_checkpoint_paths: "seq2seq-2000"
